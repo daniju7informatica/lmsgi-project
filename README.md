@@ -1,2 +1,2 @@
 # lmsgi-project
-PROVA
+Projecte de Daniel Juan Cerdá
